@@ -1,0 +1,1 @@
+VSCode远程编译成功：运行test.c输出hello
